@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Dayana!+👋;Dev+Full+Stack+em+evolução+🚀;Apaixonada+por+tecnologia+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Dayana!+👋;Dev+FullStack+em+Evolução+🚀;Apaixonada+por+Tecnologia+💻" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👩‍💻 Sobre mim
 
-- 🏢 **Analista de Sistemas Pleno** | Dev Full Stack em evolução
+- 🏢 **Analista de Sistemas Pleno** | Dev Full Stack em evolução <img width="375" height="360" alt="5897aaedcba9841eabab615f" src="https://github.com/user-attachments/assets/d342d19d-9821-40d6-9e3b-7cd108f2cb16" />
+
 - 🌱 Aprendendo e crescendo todos os dias
 - 💡 Apaixonada por criar soluções inovadoras
 - 📍 Minas Gerais, Brasil
