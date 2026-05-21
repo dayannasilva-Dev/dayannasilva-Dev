@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🏢 **Analista de Sistemas Pleno** | Dev Full Stack em evolução <img width="375" height="360" alt="5897aaedcba9841eabab615f" src="https://github.com/user-attachments/assets/d342d19d-9821-40d6-9e3b-7cd108f2cb16" />
+- 🏢 **Analista de Sistemas Pleno** | Dev Full Stack em evolução 👽
 
 - 🌱 Aprendendo e crescendo todos os dias
 - 💡 Apaixonada por criar soluções inovadoras
