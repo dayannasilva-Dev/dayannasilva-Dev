@@ -1,7 +1,5 @@
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dayannasilva-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Dayana!+👋;Dev+Full+Stack+em+evolução+🚀;Apaixonada+por+tecnologia+💻" alt="Typing SVG" />
 </div>
 
 ---
@@ -36,11 +34,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
-<div alinhar="centro">
-  <imagem altura="180em" src="https://github-readme-stats.vercel.app/...
-  <imagem altura="180em" src="https://github-readme-stats.vercel.app/...
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dayannasilva-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -50,7 +47,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayannasilva-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:day.nsilva@otlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:day.nsilva@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dayannasilva-Dev)
 
 </div>
