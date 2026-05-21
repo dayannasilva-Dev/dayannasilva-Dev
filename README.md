@@ -1,5 +1,8 @@
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Dayana!+👋;Dev+Full+Stack+em+evolução+🚀;Apaixonada+por+tecnologia+💻" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayannasilva-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayannasilva-Dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
