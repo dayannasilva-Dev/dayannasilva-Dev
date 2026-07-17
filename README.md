@@ -6,7 +6,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🏢 **Analista de Sistemas Pleno** | Dev Full Stack em evolução 👽
+- 🏢 Analista de Sistemas  | Dev Progress OpenEdge (ABL/4GL) em evolução 👽
 
 - 🌱 Aprendendo e crescendo todos os dias
 - 💡 Apaixonada por criar soluções inovadoras
